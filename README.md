@@ -1,7 +1,11 @@
+
 # CT-Scan_Classification_ResNet50
 
+## Link to Slides
+https://docs.google.com/presentation/d/1NSP1i8b_wIKEkfxSBDZMI9WOORu9g05RJH8V0nofYac/edit?usp=sharing
 
-Dataset Source: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+## Dataset Source
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 ## Introduction
 This project aims to create a deep learning solution to accurately detect and classify abnormal patterns in chest CT-Scans into three common chest cancer types, including Adenocarcinoma, Large cell carcinoma, and Squamous cell carcinoma. 
